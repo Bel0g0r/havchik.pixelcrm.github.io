@@ -2,19 +2,19 @@
   "background_color": "#ff7300",
   "display": "standalone",
   "lang": "en",
-  "name": "Vkusno Box",
-  "short_name": "Vkusno Box",
+  "name": "Havchik",
+  "short_name": "Havchik",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "related_applications": [
     {
       "platform": "itunes",
-      "id": "ru.vkusnobox.app"
+      "id": "ru.havchik.app"
     },
     {
       "platform": "play",
-      "url": "http://play.google.com/store/apps/details?id=ru.vkusnobox.app",
-      "id": "ru.vkusnobox.app"
+      "url": "http://play.google.com/store/apps/details?id=ru.havchik.app",
+      "id": "ru.havchik.app"
     }
   ],
   "prefer_related_applications": true
