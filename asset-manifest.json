@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/havchik.pixelcrm.github.io/static/css/main.baf9ae18.css",
-    "main.js": "/havchik.pixelcrm.github.io/static/js/main.4aefb5b0.js",
-    "static/js/356.db518738.js": "/havchik.pixelcrm.github.io/static/js/356.db518738.js",
+    "main.js": "/havchik.pixelcrm.github.io/static/js/main.15353e0d.js",
+    "static/js/356.f07e4f80.js": "/havchik.pixelcrm.github.io/static/js/356.f07e4f80.js",
     "static/media/MaterialCommunityIcons.ttf": "/havchik.pixelcrm.github.io/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/Ionicons.ttf": "/havchik.pixelcrm.github.io/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
     "static/media/MaterialIcons.ttf": "/havchik.pixelcrm.github.io/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
@@ -30,12 +30,12 @@
     "favicon-16.png": "/havchik.pixelcrm.github.io/favicon-16.png",
     "serve.json": "/havchik.pixelcrm.github.io/serve.json",
     "main.baf9ae18.css.map": "/havchik.pixelcrm.github.io/static/css/main.baf9ae18.css.map",
-    "main.4aefb5b0.js.map": "/havchik.pixelcrm.github.io/static/js/main.4aefb5b0.js.map",
-    "356.db518738.js.map": "/havchik.pixelcrm.github.io/static/js/356.db518738.js.map"
+    "main.15353e0d.js.map": "/havchik.pixelcrm.github.io/static/js/main.15353e0d.js.map",
+    "356.f07e4f80.js.map": "/havchik.pixelcrm.github.io/static/js/356.f07e4f80.js.map"
   },
   "entrypoints": [
-    "static/js/356.db518738.js",
+    "static/js/356.f07e4f80.js",
     "static/css/main.baf9ae18.css",
-    "static/js/main.4aefb5b0.js"
+    "static/js/main.15353e0d.js"
   ]
 }
