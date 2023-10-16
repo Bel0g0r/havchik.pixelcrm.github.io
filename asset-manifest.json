@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/havchik.pixelcrm.github.io/static/css/main.baf9ae18.css",
-    "main.js": "/havchik.pixelcrm.github.io/static/js/main.15353e0d.js",
-    "static/js/356.f07e4f80.js": "/havchik.pixelcrm.github.io/static/js/356.f07e4f80.js",
+    "main.js": "/havchik.pixelcrm.github.io/static/js/main.33286646.js",
+    "static/js/356.d1a78a9b.js": "/havchik.pixelcrm.github.io/static/js/356.d1a78a9b.js",
     "static/media/MaterialCommunityIcons.ttf": "/havchik.pixelcrm.github.io/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/Ionicons.ttf": "/havchik.pixelcrm.github.io/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
     "static/media/MaterialIcons.ttf": "/havchik.pixelcrm.github.io/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
@@ -22,20 +22,20 @@
     "static/media/ajax-loader.gif": "/havchik.pixelcrm.github.io/static/media/ajax-loader.fb6f3c230cb846e25247.gif",
     "static/media/slick.svg": "/havchik.pixelcrm.github.io/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/havchik.pixelcrm.github.io/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "favicon-32.png": "/havchik.pixelcrm.github.io/favicon-32.png",
     "static/media/slick.ttf": "/havchik.pixelcrm.github.io/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/havchik.pixelcrm.github.io/static/media/slick.295183786cd8a1389865.woff",
-    "favicon-32.png": "/havchik.pixelcrm.github.io/favicon-32.png",
+    "favicon-16.png": "/havchik.pixelcrm.github.io/favicon-16.png",
     "postMock.html": "/havchik.pixelcrm.github.io/postMock.html",
     "manifest.json": "/havchik.pixelcrm.github.io/manifest.json",
-    "favicon-16.png": "/havchik.pixelcrm.github.io/favicon-16.png",
     "serve.json": "/havchik.pixelcrm.github.io/serve.json",
     "main.baf9ae18.css.map": "/havchik.pixelcrm.github.io/static/css/main.baf9ae18.css.map",
-    "main.15353e0d.js.map": "/havchik.pixelcrm.github.io/static/js/main.15353e0d.js.map",
-    "356.f07e4f80.js.map": "/havchik.pixelcrm.github.io/static/js/356.f07e4f80.js.map"
+    "main.33286646.js.map": "/havchik.pixelcrm.github.io/static/js/main.33286646.js.map",
+    "356.d1a78a9b.js.map": "/havchik.pixelcrm.github.io/static/js/356.d1a78a9b.js.map"
   },
   "entrypoints": [
-    "static/js/356.f07e4f80.js",
+    "static/js/356.d1a78a9b.js",
     "static/css/main.baf9ae18.css",
-    "static/js/main.15353e0d.js"
+    "static/js/main.33286646.js"
   ]
 }

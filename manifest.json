@@ -1,20 +1,20 @@
 {
-  "background_color": "#ff7300",
+  "background_color": "#f3b919",
   "display": "standalone",
   "lang": "en",
-  "name": "Havchik",
-  "short_name": "Havchik",
+  "name": "Bambook Food",
+  "short_name": "Bambook Food",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "related_applications": [
     {
       "platform": "itunes",
-      "id": "ru.havchik.app"
+      "id": "ru.Havchik.app"
     },
     {
       "platform": "play",
-      "url": "http://play.google.com/store/apps/details?id=ru.havchik.app",
-      "id": "ru.havchik.app"
+      "url": "http://play.google.com/store/apps/details?id=ru.Havchik.app",
+      "id": "ru.Havchik.app"
     }
   ],
   "prefer_related_applications": true
